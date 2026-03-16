@@ -1,6 +1,6 @@
 # Spotify MCP 서버
 
-Spotify에 연결하여 **가장 많이 들은 곡**, **아티스트**, **최근 재생 곡** 등을 조회할 수 있는 MCP(Model Context Protocol) 서버입니다.
+Spotify에 연결하여 **가장 많이 들은 곡**, **아티스트**, **최근 재생 곡** 등을 조회할 수 있는 MCP(Model Context Protocol) 서버입니다..
 
 ## 제공 도구
 
